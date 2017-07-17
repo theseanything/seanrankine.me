@@ -1,0 +1,21 @@
+
+.icon {
+  height: 1.2em;
+  width: 1.2em;
+}
+
+.button-icon{
+  width: 70px;
+}
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: bottom;
+}
